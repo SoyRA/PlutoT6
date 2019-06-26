@@ -1,8 +1,8 @@
-<a href="#"><img src="https://web.archive.org/web/20180923174721im_/https://plutonium.pw/img/logo_t6.svg" alt="PlutoT6-Logo" title="PlutoT6" align="right" width="60" height="60"/>
+<a href="#"><img src="PlutoT6-Logo.svg" alt="PlutoT6-Logo" title="PlutoT6" align="right" width="60" height="60"/>
 </a>
 
 # Plutonium (PlutoT6)
-![Status.svg](https://img.shields.io/badge/Status-Online-yellow.svg) ![Release.svg](https://img.shields.io/badge/Release-353-green.svg) ![Size.svg](https://img.shields.io/badge/Size-80%2C70%20MB-blue.svg) ![Platform.svg](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Online-yellow.svg) ![Release](https://img.shields.io/badge/Release-353-green.svg) ![Size](https://img.shields.io/badge/Size-80%2C70%20MB-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 - **PlutoT6** es el proyecto de **Plutonium** para poder jugar al **Call of Duty: Black Ops II** (con el nombre en clave (oficial) de **T6**).
   - También cuenta con su proyecto PlutoIW5 para Call of Duty: Modern Warfare 3 (IW5).
 - Lamentablemente, los desarrolladores perdieron las ganas de seguir con ambos proyectos y los cancelaron. Pero solo **PlutoT6** se puede seguir jugando **ONLINE**, dado que mantienen la lista de servidores.
@@ -56,13 +56,13 @@
 - [Enlaces importantes de CoD: BO II](#enlaces-importantes-de-cod-bo-ii)
 
 ## Enlaces de Plutonium
-([VOLVER ARRIBA](#tabla-de-contenidos))
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
 - [Plutonium's Website](https://plutonium.pw/) - Sitio web oficial de Plutonium.
 - [Plutonium's Discord](https://discordapp.com/invite/a6JM2Tv) - Discord oficial de Plutonium.
 - [PlutoT6's Wiki](../../wiki) - Wiki no oficial (en español) de PlutoT6, donde encontrarás (casi) todo lo que necesitas.
 
 ## Enlaces importantes de CoD: BO II
-([VOLVER ARRIBA](#tabla-de-contenidos))
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
 - [Manual](https://store.steampowered.com/manual/202970/)
 - [Discusiones](https://steamcommunity.com/app/202970/discussions/) ([ZM](https://steamcommunity.com/app/212910/discussions/) - [MP](https://steamcommunity.com/app/202990/discussions/))
 - [Guías](https://steamcommunity.com/app/202970/guides/) ([ZM](https://steamcommunity.com/app/212910/guides/) - [MP](https://steamcommunity.com/app/202990/guides/))
