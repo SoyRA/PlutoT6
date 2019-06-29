@@ -54,6 +54,7 @@
   - [No me aparece ningún servidor en la lista de servidores](../../wiki/Soluci%C3%B3n-de-problemas#no-me-aparece-ningún-servidor-en-la-lista-de-servidores)
 - [Enlaces de Plutonium](#enlaces-de-plutonium)
 - [Enlaces importantes de CoD: BO II](#enlaces-importantes-de-cod-bo-ii)
+- [Imágenes](#imágenes)
 
 ## Enlaces de Plutonium
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
@@ -67,3 +68,11 @@
 - [Discusiones](https://steamcommunity.com/app/202970/discussions/) ([ZM](https://steamcommunity.com/app/212910/discussions/) - [MP](https://steamcommunity.com/app/202990/discussions/))
 - [Guías](https://steamcommunity.com/app/202970/guides/) ([ZM](https://steamcommunity.com/app/212910/guides/) - [MP](https://steamcommunity.com/app/202990/guides/))
 - [PCGamingWiki](https://pcgamingwiki.com/wiki/Call_of_Duty:_Black_Ops_II)
+
+## Imágenes
+**[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
+<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-01.jpg" alt="PlutoT6-ZM-01.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-01.jpg" alt="PlutoT6-MP-01.jpg" width="426" height="240"></p>
+<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-02.jpg" alt="PlutoT6-ZM-02.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-02.jpg" alt="PlutoT6-MP-02.jpg" width="426" height="240"></p>
+<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-03.jpg" alt="PlutoT6-ZM-03.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-03.jpg" alt="PlutoT6-MP-03.jpg" width="426" height="240"></p>
+<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-04.jpg" alt="PlutoT6-ZM-04.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-04.jpg" alt="PlutoT6-MP-04.jpg" width="426" height="240"></p>
+<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-05.jpg" alt="PlutoT6-ZM-05.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-05.jpg" alt="PlutoT6-MP-05.jpg" width="426" height="240"></p>
