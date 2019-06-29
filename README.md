@@ -71,8 +71,14 @@
 
 ## Imágenes
 **[`^        VOLVER ARRIBA        ^`](#tabla-de-contenidos)**
-<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-01.jpg" alt="PlutoT6-ZM-01.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-01.jpg" alt="PlutoT6-MP-01.jpg" width="426" height="240"></p>
-<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-02.jpg" alt="PlutoT6-ZM-02.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-02.jpg" alt="PlutoT6-MP-02.jpg" width="426" height="240"></p>
-<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-03.jpg" alt="PlutoT6-ZM-03.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-03.jpg" alt="PlutoT6-MP-03.jpg" width="426" height="240"></p>
-<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-04.jpg" alt="PlutoT6-ZM-04.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-04.jpg" alt="PlutoT6-MP-04.jpg" width="426" height="240"></p>
-<p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-05.jpg" alt="PlutoT6-ZM-05.jpg" width="426" height="240"> <img src="Recursos/Imagenes/PlutoT6-MP-05.jpg" alt="PlutoT6-MP-05.jpg" width="426" height="240"></p>
+
+|                                                     **Modo Zombis**                                                      |                                           **Modo Multijugador**                                            |
+|:------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------:|
+|    <p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-01.jpg" alt="PlutoT6-ZM-01.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/PlutoT6-MP-01.jpg" alt="PlutoT6-MP-01.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-02.jpg" alt="PlutoT6-ZM-02.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/PlutoT6-MP-02.jpg" alt="PlutoT6-MP-02.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-03.jpg" alt="PlutoT6-ZM-03.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/PlutoT6-MP-03.jpg" alt="PlutoT6-MP-03.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-04.jpg" alt="PlutoT6-ZM-04.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/PlutoT6-MP-04.jpg" alt="PlutoT6-MP-04.jpg" width="426" height="240"></p>    |
+|    <p align="center"><img src="Recursos/Imagenes/PlutoT6-ZM-05.jpg" alt="PlutoT6-ZM-05.jpg" width="426" height="240">    |    <img src="Recursos/Imagenes/PlutoT6-MP-05.jpg" alt="PlutoT6-MP-05.jpg" width="426" height="240"></p>    |
+|                                          **Servidor Dedicado**<br>(Modo Zombis)                                          |                                **Servidor Dedicado**<br>(Modo Multijugador)                                |
+| <p align="center"><img src="Recursos/Imagenes/PlutoT6-SV-ZM-01.jpg" alt="PlutoT6-SV-ZM-01.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/PlutoT6-SV-MP-01.jpg" alt="PlutoT6-SV-MP-01.jpg" width="426" height="240"></p> |
+| <p align="center"><img src="Recursos/Imagenes/PlutoT6-SV-ZM-02.jpg" alt="PlutoT6-SV-ZM-02.jpg" width="426" height="240"> | <img src="Recursos/Imagenes/PlutoT6-SV-MP-02.jpg" alt="PlutoT6-SV-MP-02.jpg" width="426" height="240"></p> |
