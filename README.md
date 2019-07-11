@@ -50,7 +50,7 @@
   - [UI ERROR 58339](../../wiki/Soluci%C3%B3n-de-problemas#ui-error-5xxxx-por-ejemplo-58339)
   - [EXE_CONFIGSTRINGMISMATCH](../../wiki/Soluci%C3%B3n-de-problemas#exe_configstringmismatch)
   - [Estoy cargando un mapa y me salen cuadrados rojos/verdes](../../wiki/Soluci%C3%B3n-de-problemas#estoy-cargando-un-mapa-y-me-salen-cuadrados-rojosverdes)
-  - [Quiero conectar a un servidor y me aparece que fui desconectado!](../../wiki/Soluci%C3%B3n-de-problemas#quiero-conectar-a-un-servidor-y-me-aparece-que-fui-desconectado)
+  - [Quiero conectar a un servidor y me aparece que fui desconectado! (Server Disconnected - Timed Out)](../../wiki/Soluci%C3%B3n-de-problemas#quiero-conectar-a-un-servidor-y-me-aparece-que-fui-desconectado-server-disconnected---timed-out)
   - [No me aparece ningún servidor en la lista de servidores](../../wiki/Soluci%C3%B3n-de-problemas#no-me-aparece-ningún-servidor-en-la-lista-de-servidores)
 - [Enlaces de Plutonium](#enlaces-de-plutonium)
 - [Enlaces importantes de CoD: BO II](#enlaces-importantes-de-cod-bo-ii)
