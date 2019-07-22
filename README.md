@@ -46,6 +46,7 @@
   - [La ejecución del código no puede continuar porque no se encontró D3DCompiler_47.dll. Reinstalar el programa puede solucionar este problema.](../../wiki/Soluci%C3%B3n-de-problemas#la-ejecución-del-código-no-puede-continuar-porque-no-se-encontró-d3dcompiler_47dll-reinstalar-el-programa-puede-solucionar-este-problema)
   - [Failed to Load libcef](../../wiki/Soluci%C3%B3n-de-problemas#failed-to-load-libcef)
   - [Could not load default asset](../../wiki/Soluci%C3%B3n-de-problemas#could-not-load-default-asset)
+  - [Authentication error: Unknown error. / Game will run in offline mode.](../../wiki/Soluci%C3%B3n-de-problemas#authentication-error-unknown-error--game-will-run-in-offline-mode)
   - [El juego se crashea cuando se une el quinto jugador en Origin](../../wiki/Soluci%C3%B3n-de-problemas#el-juego-se-crashea-cuando-se-une-el-quinto-jugador-en-origin)
   - [UI ERROR 58339](../../wiki/Soluci%C3%B3n-de-problemas#ui-error-5xxxx-por-ejemplo-58339)
   - [EXE_CONFIGSTRINGMISMATCH](../../wiki/Soluci%C3%B3n-de-problemas#exe_configstringmismatch)
