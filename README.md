@@ -51,6 +51,7 @@
   - [Could not load default asset](../../wiki/Soluci%C3%B3n-de-problemas#could-not-load-default-asset)
   - [Authentication error: Unknown error. / Game will run in offline mode.](../../wiki/Soluci%C3%B3n-de-problemas#authentication-error-unknown-error--game-will-run-in-offline-mode)
   - [El juego se crashea cuando se une el quinto jugador en Origin](../../wiki/Soluci%C3%B3n-de-problemas#el-juego-se-crashea-cuando-se-une-el-quinto-jugador-en-origin)
+  - [Me aparece este error al iniciar mi Servidor Dedicado de Zombis: 8 script error(s) / 2 script error(s)](../../wiki/Soluci%C3%B3n-de-problemas#me-aparece-este-error-al-iniciar-mi-servidor-dedicado-de-zombis-8-script-errors--2-script-errors)
   - [UI ERROR 58339](../../wiki/Soluci%C3%B3n-de-problemas#ui-error-5xxxx-por-ejemplo-58339)
   - [EXE_CONFIGSTRINGMISMATCH](../../wiki/Soluci%C3%B3n-de-problemas#exe_configstringmismatch)
   - [Estoy cargando un mapa y me salen cuadrados rojos/verdes](../../wiki/Soluci%C3%B3n-de-problemas#estoy-cargando-un-mapa-y-me-salen-cuadrados-rojosverdes)
