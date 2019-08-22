@@ -36,7 +36,7 @@
   - [¿Debo abrir los Puertos?](../../wiki/Preguntas-Frecuentes#debo-abrir-los-puertos)
   - [¿Por qué no puedo ver mi propio servidor?](../../wiki/Preguntas-Frecuentes#por-qué-no-puedo-ver-mi-propio-servidor)
   - [¿Cómo puedo crear una partida (LAN o Internet) sin un servidor dedicado?](../../wiki/Preguntas-Frecuentes#cómo-puedo-crear-una-partida-lan-o-internet-sin-un-servidor-dedicado)
-  - [¿Cómo puedo jugar Sin Internet / Offline?](../../wiki/Preguntas-Frecuentes##cómo-puedo-jugar-sin-internet--offline)
+  - [¿Cómo puedo jugar Sin Internet / Offline?](../../wiki/Preguntas-Frecuentes#cómo-puedo-jugar-sin-internet--offline)
   - [¿Cuántos jugadores puedo tener en Zombis?](../../wiki/Preguntas-Frecuentes#cuántos-jugadores-puedo-tener-en-zombis)
   - [¿Puedo usar BOTS en servidores dedicados?](../../wiki/Preguntas-Frecuentes#puedo-usar-bots-en-servidores-dedicados)
   - [Quiero crear una clase ¿en donde la debo hacer?](../../wiki/Preguntas-Frecuentes#quiero-crear-una-clase-en-donde-la-debo-hacer)
