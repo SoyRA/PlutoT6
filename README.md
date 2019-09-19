@@ -55,6 +55,7 @@
   - [El juego se crashea cuando se une el quinto jugador en Origin](../../wiki/Soluci%C3%B3n-de-problemas#el-juego-se-crashea-cuando-se-une-el-quinto-jugador-en-origin)
   - [Me aparece este error al iniciar mi Servidor Dedicado de Zombis: 8 script error(s) / 2 script error(s)](../../wiki/Soluci%C3%B3n-de-problemas#me-aparece-este-error-al-iniciar-mi-servidor-dedicado-de-zombis-8-script-errors--2-script-errors)
   - [UI ERROR 58339](../../wiki/Soluci%C3%B3n-de-problemas#ui-error-5xxxx-por-ejemplo-58339)
+  - [Missing config file "default_mp.cfg" during initiliazation. May need to add to code_pre_gfx.](../../wiki/Soluci%C3%B3n-de-problemas#missing-config-file-default_mpcfg-during-initiliazation-may-need-to-add-to-code_pre_gfx)
   - [EXE_CONFIGSTRINGMISMATCH](../../wiki/Soluci%C3%B3n-de-problemas#exe_configstringmismatch)
   - [Estoy cargando un mapa y me salen cuadrados rojos/verdes](../../wiki/Soluci%C3%B3n-de-problemas#estoy-cargando-un-mapa-y-me-salen-cuadrados-rojosverdes)
   - [Quiero conectar a un servidor y me aparece que fui desconectado! (Server Disconnected - Timed Out)](../../wiki/Soluci%C3%B3n-de-problemas#quiero-conectar-a-un-servidor-y-me-aparece-que-fui-desconectado-server-disconnected---timed-out)
