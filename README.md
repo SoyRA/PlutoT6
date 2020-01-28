@@ -2,7 +2,7 @@
 </a>
 
 # Plutonium (PlutoT6)
-![Status](https://img.shields.io/badge/Status-Online-yellow.svg) ![Release](https://img.shields.io/badge/Release-353-green.svg) ![Size](https://img.shields.io/badge/Size-80%2C70%20MB-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
+![Status](https://img.shields.io/badge/Status-Online-green.svg) ![Release](https://img.shields.io/badge/Release-372-green.svg) ![Size](https://img.shields.io/badge/Size-86%2C90%20MB-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 - **PlutoT6** es el proyecto de **Plutonium** para poder jugar al **Call of Duty: Black Ops II** (con el nombre en clave (oficial) de **T6**).
   - También cuenta con su proyecto PlutoIW5 para Call of Duty: Modern Warfare 3 (IW5).
 - Lamentablemente, los desarrolladores perdieron las ganas de seguir con ambos proyectos y los cancelaron. Pero solo **PlutoT6** se puede seguir jugando **ONLINE**, dado que mantienen la lista de servidores.
@@ -49,9 +49,11 @@
   - [El punto de entrada del procedimiento AddDllDirectory no podía estar ubicado en la biblioteca de enlaces dinámicos KERNEL32.dll](../../wiki/Soluci%C3%B3n-de-problemas#el-punto-de-entrada-del-procedimiento-adddlldirectory-no-podía-estar-ubicado-en-la-biblioteca-de-enlaces-dinámicos-kernel32dll)
   - [La ejecución del código no puede continuar porque no se encontró binkw32.dll. Reinstalar el programa puede solucionar este problema.](../../wiki/Soluci%C3%B3n-de-problemas#la-ejecución-del-código-no-puede-continuar-porque-no-se-encontró-binkw32dll-reinstalar-el-programa-puede-solucionar-este-problema)
   - [La ejecución del código no puede continuar porque no se encontró D3DCompiler_47.dll. Reinstalar el programa puede solucionar este problema.](../../wiki/Soluci%C3%B3n-de-problemas#la-ejecución-del-código-no-puede-continuar-porque-no-se-encontró-d3dcompiler_47dll-reinstalar-el-programa-puede-solucionar-este-problema)
+  - [La ejecución del código no puede continuar porque no se encontró XINPUT1_3.dll. Reinstalar el programa puede solucionar este problema.](../../wiki/Soluci%C3%B3n-de-problemas#la-ejecución-del-código-no-puede-continuar-porque-no-se-encontró-xinput1_3dll-reinstalar-el-programa-puede-solucionar-este-problema)
   - [La ejecución del código no puede continuar porque no se encontró t6r/t6r.dll. Reinstalar el programa puede solucionar este problema.](../../wiki/Soluci%C3%B3n-de-problemas#la-ejecución-del-código-no-puede-continuar-porque-no-se-encontró-t6rt6rdll-reinstalar-el-programa-puede-solucionar-este-problema)
   - [Failed to Load libcef](../../wiki/Soluci%C3%B3n-de-problemas#failed-to-load-libcef)
   - [Could not load default asset](../../wiki/Soluci%C3%B3n-de-problemas#could-not-load-default-asset)
+  - [Menú principal vació, sin texto o pantalla en gris](../../wiki/Soluci%C3%B3n-de-problemas#menú-principal-vació-sin-texto-o-pantalla-en-gris)
   - [Authentication error: Unknown error. / Game will run in offline mode.](../../wiki/Soluci%C3%B3n-de-problemas#authentication-error-unknown-error--game-will-run-in-offline-mode)
   - [El juego se crashea cuando se une el quinto jugador en Origin](../../wiki/Soluci%C3%B3n-de-problemas#el-juego-se-crashea-cuando-se-une-el-quinto-jugador-en-origin)
   - [Me aparece este error al iniciar mi Servidor Dedicado de Zombis: 8 script error(s) / 2 script error(s)](../../wiki/Soluci%C3%B3n-de-problemas#me-aparece-este-error-al-iniciar-mi-servidor-dedicado-de-zombis-8-script-errors--2-script-errors)
