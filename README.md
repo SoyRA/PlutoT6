@@ -1,28 +1,30 @@
-<a href="#"><img src="PlutoT6-Logo.svg" alt="PlutoT6-Logo" title="PlutoT6" align="right" width="60" height="60"/>
+<a href="#"><img src="/Recursos/Imagenes/PlutoT6-Logo.svg" alt="PlutoT6-Logo" title="PlutoT6" align="right" width="60" height="60"/>
 </a>
 
 # Plutonium (PlutoT6)
 ![Status](https://img.shields.io/badge/Status-Online-green.svg) ![Release](https://img.shields.io/badge/Release-372-green.svg) ![Size](https://img.shields.io/badge/Size-86%2C90%20MB-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)
 - **PlutoT6** es el proyecto de **Plutonium** para poder jugar al **Call of Duty: Black Ops II** (con el nombre en clave (oficial) de **T6**).
   - También cuenta con su proyecto PlutoIW5 para Call of Duty: Modern Warfare 3 (IW5).
-- Lamentablemente, los desarrolladores perdieron las ganas de seguir con ambos proyectos y los cancelaron. Pero solo **PlutoT6** se puede seguir jugando **ONLINE**, dado que mantienen la lista de servidores.
-  - Eso significa que, incluso si la lista de servidores se cae, podrás seguir jugando mientras tengas la IP y Puerto del servidor. Además de que puedes jugar de forma OFFLINE y en LAN.
 
 ## Aviso
 - Este repositorio no contiene ningún código de PlutoT6, tan solo proporciona soporte y ayuda a los usuarios de habla hispana.
-- **Plutonium** no apoya la piratería, además de que no puedes usar copias de **Skidrow** / **nosTEAM** (necesitarás una copia del juego original, o una pirata con sus archivos actualizados).
-- **PlutoT6** se encuentra **sin acabar**, y ha sido cancelado. Podrás seguir jugando de forma Online y Offiline, solamente no vas a ver nuevas actualizaciones.
+  - Si no sabes Español, puedes usar [DeepL](https://www.deepl.com/translator) como traductor de Español a X idioma.
+- **Plutonium** no apoya la **piratería**, esto significa:
+  - Aunque te den los archivos del juego, no te ayudarán si tienes copias piratas de mala calidad (como **Skidrow** / **nosTEAM**).
 
 ## Tabla de Contenidos
 - [Cliente](../../wiki/Cliente)
   - [Requisitos](../../wiki/Cliente#requisitos)
     - [Aviso](../../wiki/Cliente#aviso)
   - [Proceso de Instalación](../../wiki/Cliente#proceso-de-instalación)
+  - [Crear una partida](../../wiki/Cliente#crear-una-partida)
+  - [Unirse a una partida](../../wiki/Cliente#unirse-a-una-partida)
 - [Servidor](../../wiki/Servidor)
   - [Requisitos](../../wiki/Servidor#requisitos)
     - [Aviso](../../wiki/Servidor#aviso)
   - [Proceso de Instalación](../../wiki/Servidor#proceso-de-instalación)
-  - [Optimización: Archivos Necesarios](../../wiki/Servidor#optimización-archivos-necesarios)
+  - [Configuración del Servidor Dedicado](../../wiki/Servidor#configuración-del-servidor-dedicado)
+  - [Optimizar Servidor](../../wiki/Servidor#optimizar-servidor)
 - [Preguntas Frecuentes](../../wiki/Preguntas-Frecuentes)
   - [¿Qué versiones del juego puedo usar para jugar por PlutoT6?](../../wiki/Preguntas-Frecuentes#qué-versiones-del-juego-puedo-usar-para-jugar-por-plutot6)
   - [¿Qué idiomas soporta PlutoT6?](../../wiki/Preguntas-Frecuentes#qué-idiomas-soporta-plutot6)
