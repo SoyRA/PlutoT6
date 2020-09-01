@@ -12,6 +12,12 @@
 - **Plutonium** no apoya la **piratería**, esto significa:
   - Aunque te den los archivos del juego, no te ayudarán si tienes copias piratas de mala calidad (como **Skidrow** / **nosTEAM**).
 
+## :wave: Mi Retiro
+- Ya no haré más nada en mi Repositorio / Wiki, ni tampoco daré soporte alguno.
+- Si quieres continuar con lo que empecé, puedes hacerle un **Fork** a mi Repositorio y Wiki.
+  - Obviamente puedes traducir todo a otro idioma y continuar desde ahí.
+    - Tan solo no olvides de agregarme a los créditos.
+
 ## Tabla de Contenidos
 - [Inicio](../../wiki)
   - [Características](../../wiki#características)
